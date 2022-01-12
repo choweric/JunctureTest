@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring"
+       title="中文妳好嗎防疫可惡口"
        author="JSTOR Labs team"
        banner="https://i1.wp.com/www.ezpr.com.tw/wp-content/uploads/2015/09/2015-ETC-Forum_Main_visio-TCH-2.png?resize=580%2C268" 
        layout="vertical">
@@ -24,7 +24,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ## Image
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
+_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) 中文妳好嗎防疫可惡口中文妳好嗎防疫可惡口中文妳好嗎防疫可惡口中文妳好嗎防疫可惡口中文妳好嗎防疫可惡口den Age painter Johannes Vermeer, 
 dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
 20th century after the earring worn by the girl portrayed there.[^1]
 <param ve-image 
