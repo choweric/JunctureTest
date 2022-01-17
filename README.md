@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Hong Kong Colonial Second Tier Elites"
-       author="JSTOR Labs team"
+       author="Ryan Iu"
        banner="https://mediakron.bc.edu/files/edges/styles/full/public/edges_6G9sMy.jpg" 
        layout="vertical">
 
@@ -16,9 +16,9 @@
 
 # Sample visual essay
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+Sir Robert Ho Tung Bosman, KBE JP (22 December 1862 – 26 April 1956), also known as Sir Robert Ho Tung, was a Hong Kong businessman and philanthropist in British Hong Kong. Known as "the grand old man of Hong Kong",[1] (Chinese: 香港大老)[2] he was knighted in 1915 (Knight Bachelor) and 1955 (KBE).
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       manifest="https://upload.wikimedia.org/wikipedia/commons/4/4e/Sir_Robert_Ho_Tung.jpg">
 
 # Basic usage
 
