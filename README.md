@@ -31,7 +31,7 @@ Sir Robert Ho Tung Bosman, KBE JP (22 December 1862 – 26 April 1956), also kno
 ## Map
 
 Most of the daily activities of these people are centered around Central, Hong Kong.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+<param ve-map center="22.28,114.1588" zoom="10">
 
 ## Multiple viewers
 
