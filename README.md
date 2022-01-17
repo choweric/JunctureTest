@@ -17,6 +17,11 @@
 # Introduction
 
 This is a page documenting the history of second tier elite in colonial Hong Kong.
+<param ve-image 
+       label="Mr Ho Tung & Co" 
+       description="Photograph of Mr Ho Tung and Family & Co. (Unknown date)" 
+       license="public domain" 
+       url="https://mediakron.bc.edu/files/edges/styles/full/public/edges_6G9sMy.jpg">
 
 
 ## Sir Robert Ho Tung
