@@ -37,7 +37,7 @@ Most of the daily activities of these people are centered around Central, Hong K
 ## Ho's Family
 
 The Ho Tung family has a close network of personal relationship with other elites in Hong Kong. The Ho Tung family has a close network of personal relationship with other elites in Hong Kong. The Ho Tung family has a close network of personal relationship with other elites in Hong Kong. The Ho Tung family has a close network of personal relationship with other elites in Hong Kong.
-<param ve-vis-network title="Ho Tung's Personal Relationship" url="http://test.datalab.hk/hofamily.tsv">
+<param ve-vis-network title="Ho Tung's Personal Relationship" url="http://test.datalab.hk/p.tsv">
 
 
 ## Business Relationships
