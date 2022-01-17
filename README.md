@@ -31,7 +31,7 @@ Sir Robert Ho Tung Bosman, KBE JP (22 December 1862 – 26 April 1956), also kno
        label="Mr Ho Tung & Co" 
        description="Photograph of Mr Ho Tung and Family & Co. (Unknown date)" 
        license="public domain" 
-       url="https://macaonews.org/wp-content/uploads/2021/05/Hotungwives_and_family-scaled.jpeg">
+       url="https://cdn.i-scmp.com/sites/default/files/d8/images/methode/2020/06/29/7cc5a7ce-b5c8-11ea-94a5-08ba74052128_972x_182630.jpg">
 
 ## Center of Activities
 
