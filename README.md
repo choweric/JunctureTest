@@ -18,20 +18,20 @@
 
 This is a page documenting the history of second tier elite in colonial Hong Kong.
 <param ve-image 
-       label="Mr Ho Tung & Co" 
-       description="Photograph of Mr Ho Tung and Family & Co. (Unknown date)" 
+       label="Mr Ho Tung" 
+       description="Photograph of Mr Ho Tung (Unknown date)" 
        license="public domain" 
-       url="https://mediakron.bc.edu/files/edges/styles/full/public/edges_6G9sMy.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Sir_Robert_Ho_Tung.jpg">
 
 
 ## Sir Robert Ho Tung
 
 Sir Robert Ho Tung Bosman, KBE JP (22 December 1862 – 26 April 1956), also known as Sir Robert Ho Tung, was a Hong Kong businessman and philanthropist in British Hong Kong. Known as "the grand old man of Hong Kong",[1] (Chinese: 香港大老)[2] he was knighted in 1915 (Knight Bachelor) and 1955 (KBE).
 <param ve-image 
-       label="Mr Ho Tung" 
-       description="Photograph of Mr Ho Tung (Unknown date)" 
+       label="Mr Ho Tung & Co" 
+       description="Photograph of Mr Ho Tung and Family & Co. (Unknown date)" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Sir_Robert_Ho_Tung.jpg">
+       url="https://mediakron.bc.edu/files/edges/styles/full/public/edges_6G9sMy.jpg">
 
 ## Center of Activities
 
