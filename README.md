@@ -16,17 +16,13 @@
 
 # Sample visual essay
 
-Sir Robert Ho Tung Bosman, KBE JP (22 December 1862 – 26 April 1956), also known as Sir Robert Ho Tung, was a Hong Kong businessman and philanthropist in British Hong Kong. Known as "the grand old man of Hong Kong",[1] (Chinese: 香港大老)[2] he was knighted in 1915 (Knight Bachelor) and 1955 (KBE).
-<param ve-image 
-       manifest="https://upload.wikimedia.org/wikipedia/commons/4/4e/Sir_Robert_Ho_Tung.jpg">
+This is a page documenting the history of second tier elite in colonial Hong Kong.
 
 # Basic usage
 
 ## Image
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) 中文妳好嗎防疫可惡口中文妳好嗎防疫可惡口中文妳好嗎防疫可惡口中文妳好嗎防疫可惡口中文妳好嗎防疫可惡口den Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+Sir Robert Ho Tung Bosman, KBE JP (22 December 1862 – 26 April 1956), also known as Sir Robert Ho Tung, was a Hong Kong businessman and philanthropist in British Hong Kong. Known as "the grand old man of Hong Kong",[1] (Chinese: 香港大老)[2] he was knighted in 1915 (Knight Bachelor) and 1955 (KBE).
 <param ve-image 
        label="Mr Ho Tung" 
        description="Photograph of Mr Ho Tung (Unknown date)" 
