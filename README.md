@@ -37,9 +37,9 @@ Most of the daily activities of these people are centered around Central, Hong K
 ## Ho's Family
 
 The Ho Tung family has a close network of personal relationship with other elites in Hong Kong. The Ho Tung family has a close network of personal relationship with other elites in Hong Kong. The Ho Tung family has a close network of personal relationship with other elites in Hong Kong. The Ho Tung family has a close network of personal relationship with other elites in Hong Kong.
-<param ve-vis-network title="Ho Tung's Personal Relationship" url="https://raw.githubusercontent.com/choweric/JunctureTest/main/hofamliy2.tsv">
+<param ve-vis-network title="Ho Tung's Network" url="https://raw.githubusercontent.com/choweric/JunctureTest/main/hofamliy2.tsv">
 
 
-## Business Relationships
-There is also a close network of business relationship, from trading companies, to government departments, etc. here is also a close network of business relationship, from trading companies, to government departments, etc. here is also a close network of business relationship, from trading companies, to government departments, etc.
-<param ve-vis-network title="Ho Tung's Personal Relationship" url="https://raw.githubusercontent.com/choweric/JunctureTest/main/zimmern.tsv">
+## Zimmern Family
+There is also a close network of business relationship, from trading companies, to government departments, etc. among the Zimmern family. There is also a close network of business relationship, from trading companies, to government departments, etc. among the Zimmern family. There is also a close network of business relationship, from trading companies, to government departments, etc. among the Zimmern family.
+<param ve-vis-network title="Zimmern's Network" url="https://raw.githubusercontent.com/choweric/JunctureTest/main/zimmern.tsv">
