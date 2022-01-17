@@ -49,5 +49,5 @@ There is also a close network of business relationship, from trading companies, 
 ## Ho's Family
 
 The Ho Tung family has a close network of personal relationship with other elites in Hong Kong. The Ho Tung family has a close network of personal relationship with other elites in Hong Kong. The Ho Tung family has a close network of personal relationship with other elites in Hong Kong. The Ho Tung family has a close network of personal relationship with other elites in Hong Kong.
-<param ve-d3plus-network title="Ho Tung's Network" url="https://raw.githubusercontent.com/choweric/JunctureTest/main/hofamliy2.tsv">
+<param ve-d3plus-network url="https://raw.githubusercontent.com/choweric/JunctureTest/main/hofamliy2.tsv">
 
