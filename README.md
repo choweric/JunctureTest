@@ -42,4 +42,4 @@ The Ho Tung family has a close network of personal relationship with other elite
 
 ## Business Relationships
 There is also a close network of business relationship, from trading companies, to government departments, etc. here is also a close network of business relationship, from trading companies, to government departments, etc. here is also a close network of business relationship, from trading companies, to government departments, etc.
-<param ve-vis-network title="Ho Tung's Personal Relationship" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/graphs/peony_medici.tsv">
+<param ve-vis-network title="Ho Tung's Personal Relationship" url="https://raw.githubusercontent.com/choweric/JunctureTest/main/zimmern.tsv">
