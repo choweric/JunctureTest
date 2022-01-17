@@ -28,10 +28,10 @@ _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) 中文妳好嗎防疫�
 dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
 20th century after the earring worn by the girl portrayed there.[^1]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="Mr Ho Tung" 
+       description="Photograph of Mr Ho Tung (Unknown date)" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Sir_Robert_Ho_Tung.jpg">
 
 ## Map
 
