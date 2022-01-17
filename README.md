@@ -14,11 +14,10 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Sample visual essay
+# Introduction
 
 This is a page documenting the history of second tier elite in colonial Hong Kong.
 
-# Basic usage
 
 ## Image
 
