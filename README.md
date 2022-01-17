@@ -30,8 +30,7 @@ Sir Robert Ho Tung Bosman, KBE JP (22 December 1862 – 26 April 1956), also kno
 
 ## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
+Most of the daily activities of these people are centered around Central, Hong Kong.
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
 ## Multiple viewers
