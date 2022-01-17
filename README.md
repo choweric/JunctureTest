@@ -28,20 +28,14 @@ Sir Robert Ho Tung Bosman, KBE JP (22 December 1862 – 26 April 1956), also kno
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/4/4e/Sir_Robert_Ho_Tung.jpg">
 
-## Map
+## Center of Activities
 
 Most of the daily activities of these people are centered around Central, Hong Kong.
-<param ve-entity center="22.28,114.1588">
 <param ve-map center="22.28,114.1588" zoom="13">
 
-## Multiple viewers
 
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
+## Personal Relationships
 
-# References
+The Ho Tung family has a close network of personal relationship with other elites in Hong Kong.
+<param ve-vis-network title="Anna Maria Luisa de Medici's Network" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/graphs/peony_medici.tsv">
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
