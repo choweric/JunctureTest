@@ -41,5 +41,12 @@ The Ho Tung family has a close network of personal relationship with other elite
 
 
 ## Zimmern Family
+
 There is also a close network of business relationship, from trading companies, to government departments, etc. among the Zimmern family. There is also a close network of business relationship, from trading companies, to government departments, etc. among the Zimmern family. There is also a close network of business relationship, from trading companies, to government departments, etc. among the Zimmern family.
 <param ve-vis-network title="Zimmern's Network" url="https://raw.githubusercontent.com/choweric/JunctureTest/main/zimmern.tsv">
+
+
+## Zimmern Family
+
+There is also a close network of business relationship, from trading companies, to government departments, etc. among the Zimmern family. There is also a close network of business relationship, from trading companies, to government departments, etc. among the Zimmern family. There is also a close network of business relationship, from trading companies, to government departments, etc. among the Zimmern family.
+<param ve-d3plus-ring-network url="https://raw.githubusercontent.com/choweric/JunctureTest/main/zimmern.tsv">
