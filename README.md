@@ -1,9 +1,9 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="中文妳好嗎防疫可惡口"
+       title="Hong Kong Colonial Second Tier Elites"
        author="JSTOR Labs team"
-       banner="https://i1.wp.com/www.ezpr.com.tw/wp-content/uploads/2015/09/2015-ETC-Forum_Main_visio-TCH-2.png?resize=580%2C268" 
+       banner="https://mediakron.bc.edu/files/edges/styles/full/public/edges_6G9sMy.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
