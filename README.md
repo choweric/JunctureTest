@@ -30,12 +30,12 @@ Sir Robert Ho Tung Bosman, KBE JP (22 December 1862 – 26 April 1956), also kno
 
 ## Center of Activities
 
-Most of the daily activities of these people are centered around Central, Hong Kong.
+Most of the daily activities of these people are centered around Central, Hong Kong. Most of the daily activities of these people are centered around Central, Hong Kong. Most of the daily activities of these people are centered around Central, Hong Kong. Most of the daily activities of these people are centered around Central, Hong Kong.
 <param ve-map center="22.28,114.1588" zoom="13">
 
 
 ## Personal Relationships
 
-The Ho Tung family has a close network of personal relationship with other elites in Hong Kong.
+The Ho Tung family has a close network of personal relationship with other elites in Hong Kong. The Ho Tung family has a close network of personal relationship with other elites in Hong Kong. The Ho Tung family has a close network of personal relationship with other elites in Hong Kong. The Ho Tung family has a close network of personal relationship with other elites in Hong Kong.
 <param ve-vis-network title="Anna Maria Luisa de Medici's Network" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/graphs/peony_medici.tsv">
 
