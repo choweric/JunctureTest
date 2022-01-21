@@ -31,10 +31,23 @@ Sir Robert Ho Tung Bosman, KBE JP (22 December 1862 – 26 April 1956), also kno
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/He_Dong3.jpg/1200px-He_Dong3.jpg">
 
+
+
+
+## ----
+## ----
+## ----
+
 ## Center of Activities
 
 Most of the daily activities of these people are centered around Central, Hong Kong. Most of the daily activities of these people are centered around Central, Hong Kong. Most of the daily activities of these people are centered around Central, Hong Kong. Most of the daily activities of these people are centered around Central, Hong Kong.
 <param ve-map center="22.28,114.1588" zoom="13">
+
+
+
+
+
+
 
 
 ## Ho's Family
